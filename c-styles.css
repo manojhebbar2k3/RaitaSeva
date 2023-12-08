@@ -1,0 +1,54 @@
+.c-body{
+    /* background-color: rgb(143, 109, 41); */
+    background-image: url(./Simple-Background-Image.jpg);
+    background-size:cover;
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0 0 3PX black, 0 0 4PX black;
+}
+
+
+.hyp{
+    color: white;
+    transition-delay: 0.1s;
+}
+
+.hyp:hover{
+    color: rgb(38, 149, 155);
+    
+}
+
+button{
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    transition-duration: 0.4s;
+    border-radius: 15%;
+    position: fixed;
+    top: 15px;
+    right: 25px;
+}
+
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    /* border: 5px; */
+    background-color: #191970;
+    font-size: 26px;
+}
+
+iframe{
+    width:450px;
+    height:300px;
+    border: 5px solid white; 
+    border-radius: 5%;
+}

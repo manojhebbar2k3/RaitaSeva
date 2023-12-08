@@ -1,0 +1,23 @@
+.c-body{
+    background-image: url(./Simple-Background-mobile.jpg);
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+    right: 30px;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px;
+    border: 2px;
+    border-radius: 3%;
+    
+}
