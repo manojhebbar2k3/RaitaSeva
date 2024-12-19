@@ -2,6 +2,9 @@
 
 This repository contains the source code for the responsive webpage designed and implemented for **Raita Seva Gramodyoga**, a rice mill business. The webpage highlights the mill's services and products available.
 
+## Project link
+https://manojhebbar2709.github.io/raitaseva-website/
+
 ## Project Overview
 
 **Raita Seva Gramodyoga** is a rice mill that specializes in producing high-quality rice products. The webpage serves as a platform to showcase the mill's operations, product range, and commitment to excellence in rice production.
