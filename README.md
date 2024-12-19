@@ -27,11 +27,12 @@ https://manojhebbar2709.github.io/raitaseva-website/
 1. Clone the repository:
    ```bash
    git clone https://github.com/manojhebbar2k3/RaitaSeva.git
-   Navigate to the project folder:
   bash
 
-2. Copy code
-cd raita-seva-gramodyoga
+2. Navigate to the project folder:
+
+Copy code:
+   cd raita-seva-gramodyoga
 
 3. Open index.html in a web browser to view the webpage.
 
