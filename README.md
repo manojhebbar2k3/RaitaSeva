@@ -40,9 +40,3 @@ Copy code:
 Learn about the rice mill's history and operations.
 View the product catalog and quality standards.
 Navigate to the contact section for inquiries or partnerships.
-
-## Project Structure
-raita-seva-gramodyoga/
-├── index.html         # Main HTML file
-├── style.css          # Stylesheet for the webpage
-└── script.js          # JavaScript functionality 
